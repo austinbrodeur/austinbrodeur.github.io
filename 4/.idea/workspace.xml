@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e97a811f-4b65-4f11-8c59-db2d3125e439" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXj2ChINI5h5C3Uhwfd26UOeYa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\austi\OneDrive\CPSC 583\myinteraction" />
+      <recent name="C:\Users\austi\WebstormProjects\groupassignment3" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e97a811f-4b65-4f11-8c59-db2d3125e439" name="Default Changelist" comment="" />
+      <created>1584992123344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584992123344</updated>
+      <workItem from="1584992124536" duration="1418000" />
+      <workItem from="1584993931935" duration="6650000" />
+      <workItem from="1585000974569" duration="39000" />
+      <workItem from="1585001027373" duration="365000" />
+      <workItem from="1585252304688" duration="10842000" />
+      <workItem from="1586633394257" duration="2646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="215" y="347" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584999847397">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="215" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584999847397" />
+    <state x="136" y="254" key="run.anything.popup" timestamp="1584998781444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="136" y="254" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1584998781444" />
+  </component>
+</project>
